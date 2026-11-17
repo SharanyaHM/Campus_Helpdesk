@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#grad1)" />
+  <!-- Academic Cap / Helpdesk Shield Icon -->
+  <path d="M50 22 L82 36 L50 50 L18 36 Z" fill="#ffffff" />
+  <path d="M28 41 V62 C28 72 50 78 50 78 C50 78 72 72 72 62 V41 L50 51 Z" fill="#eff6ff" />
+  <circle cx="50" cy="58" r="8" fill="#2563eb" />
+  <path d="M47 58 L49 60 L54 55" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
